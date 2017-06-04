@@ -1,0 +1,7 @@
+D:\Documenti\Progetti\Clesp\SuggestionBox\SuggestionTextBox\bin\Release\SuggestionTextBox.dll
+D:\Documenti\Progetti\Clesp\SuggestionBox\SuggestionTextBox\bin\Release\SuggestionTextBox.pdb
+D:\Documenti\Progetti\Clesp\SuggestionBox\SuggestionTextBox\obj\Release\SuggestionTextBox.Properties.Resources.resources
+D:\Documenti\Progetti\Clesp\SuggestionBox\SuggestionTextBox\obj\Release\SuggestionTextBox.SuggestionTextBox.resources
+D:\Documenti\Progetti\Clesp\SuggestionBox\SuggestionTextBox\obj\Release\SuggestionTextBox.csproj.GenerateResource.Cache
+D:\Documenti\Progetti\Clesp\SuggestionBox\SuggestionTextBox\obj\Release\SuggestionTextBox.dll
+D:\Documenti\Progetti\Clesp\SuggestionBox\SuggestionTextBox\obj\Release\SuggestionTextBox.pdb
