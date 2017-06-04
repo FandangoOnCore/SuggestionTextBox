@@ -21,7 +21,7 @@ This solution seemed clever enough to me, so I decided to try this way: I creat
 
 *** Using the code ***
 
-The attached archive contains the solution file and 2 projects: the DLL project for the control (SuggestionBox.csproj) and a test WinForms project (Test.csproj).
+The solution contains 2 projects: the DLL project for the control (SuggestionTextBox.csproj) and a test WinForms project (Test.csproj).
 The projects are compiled targeting version 4.6 of the .NET Framework in both Debug and Release mode (I'm using Visual Studio Community 2017).
 The Suggestion Text Box has it's own properties section. Every property there can be set *ONLY* in design mode (for now, at least):
 
